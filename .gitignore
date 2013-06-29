@@ -1,0 +1,6 @@
+bin/
+var/
+parts/
+.installed.cfg
+eggs/
+.mr.developer.cfg
